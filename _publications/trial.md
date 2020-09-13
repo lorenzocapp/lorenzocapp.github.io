@@ -17,3 +17,10 @@ author_profile: true
 
 
 
+Submitted Papers
+======
+
+	    
+	
+*  **Cappello, L.**, Walker, S. G., ``Recursive Nonparametric Predictive for   a Discrete Regression model." (SBSS Best Student Paper Prize at JSM 2018, BNP at Paris 2017 Best Poster Award) (Revision due to *Computational Statistics and Data Analysis*)
+* **Cappello, L.**, Walker, S. G., ``Recursive Estimation of  Probability Distributions."
