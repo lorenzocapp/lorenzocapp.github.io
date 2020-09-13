@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Statistics, Bocconi University, 2018
 * M.Sc. in Finance, RSM, Erasmus University, 2012
-* B.Eng. in Engineering, Universita degli studi di Genova, 2010
+* B.Eng. in Engineering, Universit\`{a} degli studi di Genova, 2010
 
 Research positions
 ======
