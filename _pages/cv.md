@@ -25,7 +25,7 @@ Research positions
   * Department of Statistics and Data Science
   * Supervisor: Prof. Stephen G. Walker
   
-  * **Trainee at European Central Bank**, January 2013 - December 2017
+* **Trainee at European Central Bank**, January 2013 - December 2017
   * International Policy Analysis Division
   
   
