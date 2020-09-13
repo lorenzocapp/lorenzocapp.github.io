@@ -26,10 +26,10 @@ Submitted Papers
 
 * **Cappello, L.**, Walker, S. G., "Recursive Estimation of  Probability Distributions."
 
-* **Cappello, L.**,  Veber, A. , Palacios, J. A., ``Bayesian Nonparametrics Inference of Population Trajectories via Tajima Heterochronous Coalescent." arXiv 2004.06826.
+* **Cappello, L.**,  Veber, A. , Palacios, J. A., ``Bayesian Nonparametrics Inference of Population Trajectories via Tajima Heterochronous Coalescent." 
 	   
 	
-*  Gorzynski, J. E. , De Jong, H. N. , Amar, D., Hughes, C., Ioannidis, A.,Bierman, R. Liu, D., Tanigawa, Y., Kistler, A. L. ,  Kamm, J., Kim, J., **Cappello, L.**,  Neff, N. F., Rubinacci, S., Delaneau, O. , Shoura, M. J. , Seo, K., Kirillova, A. , Raja, A.,Sutton, S., Huang, C. ,  Sahoo,M. K.,  Mallempati, K. C., Montero-Martin, G. , Osoegawa, K. , Watson, N.,  Hammond, N., Joshi, R. ,  Fernández-Viña, M. A., Christle, J. W. ,  Wheeler, M.T., Febbo,  P., Farh, K. , Schroth, G. P. , DeSouza, F. ,  Palacios, J.A., Salzman, J. ,Pinsky, B. A. , Rivas,  M. A. ,  Bustamante, C.D., Ashley, E. A. ,  Parikh,V. N., "High-throughput SARS-CoV-2 and host genome sequencing from single nasopharyngeal swabs."
+
 
 * **Cappello, L.**, Palacios, J. A., "Adaptive Preferential Sampling in Phylodynamics."
 	
