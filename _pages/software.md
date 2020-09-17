@@ -8,7 +8,7 @@ author_profile: true
 
 I contribute to the package [phylodyn](https://github.com/JuliaPalacios/phylodyn)
 
-I recently develop the package [adapref](https://github.com/lorenzocapp/adapref)
+I have recently developed the package [adapref](https://github.com/lorenzocapp/adapref)
 
 Most of my code is available on [github](https://github.com/lorenzocapp/)
 
