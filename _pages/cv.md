@@ -154,8 +154,7 @@ Recursive Nonparametric Predictive for   a Discrete Regression Model
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+See the dedicated [page](https://lorenzocapp.github.io/publications/)
   
 
