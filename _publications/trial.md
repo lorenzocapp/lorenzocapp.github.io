@@ -7,11 +7,9 @@ author_profile: true
 
 
 
-*	    **Cappello, L.**, Walker, S. G., (2018) "A Recursive Multivariate Inversion of a Laplace Transform for Probability Distributions.", *Methodology and Computing in Applied Probability*, 20 777-797 
-
-[journal](https://link.springer.com/article/10.1007/s11009-017-9587-y)
+*	    **Cappello, L.**, Walker, S. G., (2018) "A Recursive Multivariate Inversion of a Laplace Transform for Probability Distributions.", *Methodology and Computing in Applied Probability*, 20 777-797. [\[journal\]](https://link.springer.com/article/10.1007/s11009-017-9587-y)
 	    
-*  Palacios, J. A., Veber, A. , **Cappello, L.**, Wang, Z., Wakeley, J., Ramachandran, S., (2019) "Bayesian Estimation of Population Size Changes by Sampling Tajima's Tree." *Genetics*, 213 (3) 967-986
+*  Palacios, J. A., Veber, A. , **Cappello, L.**, Wang, Z., Wakeley, J., Ramachandran, S., (2019) "Bayesian Estimation of Population Size Changes by Sampling Tajima's Tree." *Genetics*, 213 (3) 967-986  [\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/605352v2.full.pdf) [\[journal\]](https://www.genetics.org/content/213/3/967)[\[software\]](https://github.com/JuliaPalacios/phylodyn)
 	     
 * **Cappello, L.**, Palacios, J. A., (2020) "Sequential Importance Sampling Algorithms for Multi-Resolution Kingman-Tajima Coalescent Counting."  *Annals of Applied Statistics*, 14 (2) 727-751.
 	      
