@@ -17,7 +17,7 @@ I seek to provide computationally tractable methods and scalable algorithms that
 
 * **Scalable coalescent-based inference**, working on alternative to Kingman coalescent to make inference feasible for large data sets
 
-* **Statistical approaches to mathematical questions**, by framing some questions in combinatorics and applied mathematics as a statistical problem and solving those with tools from the statistical literature
+* **Statistical approaches to inverse problems**, by framing some questions in combinatorics and applied mathematics as a statistical problem and solving those with tools from the statistical literature
 
 * **Recursive algorithms in Bayesian statistics**, studying and developing recursive algorithms to approximate predictive distributions in Bayesian nonparametrics model
 
