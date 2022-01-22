@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lorenzo Cappello"
 title_separator          : "-"
 name                     : &name "Lorenzo Cappello"
-description              : &description "Postdoctoral scientist at Stanford University"
+description              : &description "Assistant Professor at Pompeu Fabra"
 url                      : "https://lorenzocapp.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://lorenzocapp.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lorenzo Cappello"
   avatar           : "lorenzocapp.png"
-  bio              : "Postdoctoral scientist in the Department of Statistics at Stanford University"
-  location         : "San Francisco, California"
+  bio              : "Assistant Professor in Statistics at Pompeu Fabra"
+  location         : "Barcelona, Spain"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=it&user=RsbU0icAAAAJ"
-  email            : "cappello@stanford.edu"
+  email            : "lorenzo.cappello@upf.edu"
   researchgate     :
   uri              :
   bitbucket        :
