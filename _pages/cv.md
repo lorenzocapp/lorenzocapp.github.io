@@ -17,7 +17,12 @@ Education
 
 Research positions
 ======
-* **Postdoctoral Scholar at Stanford University**,  April 2018 - Present 
+* **Assistant Professor at Universitat Pompeu Fabra**, January 2022- Present
+  * Department of Economics and Business
+  * Statistics Group
+  * Affiliated with Barcelona School of Economics (BSE)
+
+* **Postdoctoral Scholar at Stanford University**,  April 2018 - December 2021
   * Department of Statistics
   * Mentor: Prof. Julia A. Palacios
 
