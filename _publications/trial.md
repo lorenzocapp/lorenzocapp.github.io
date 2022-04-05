@@ -20,6 +20,8 @@ author_profile: true
 
 * **Cappello, L.**, Palacios, J. A., (2021) "Adaptive Preferential Sampling in Phylodynamics." *Journal of Computational and Graphical Statistics*, in press,  [\[arXiv\]](https://arxiv.org/abs/2009.02307) [\[journal\]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1987256)[\[software\]](https://github.com/lorenzocapp/adapref)
 
+* **Cappello, L.**,  Kim, J. , Liu, S. , Palacios, J. A., (2022)  ``Statistical Challenges in Tracking the Evolution of SARS-CoV-2."  *Statistical Science*, to appear [\[arXiv\]](https://arxiv.org/abs/2108.13362)
+
 
 Submitted Papers
 ======
