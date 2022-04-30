@@ -5,22 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-
-*	    **Cappello, L.**, Walker, S. G., (2018) "A Recursive Multivariate Inversion of a Laplace Transform for Probability Distributions.", *Methodology and Computing in Applied Probability*, 20 777-797. [\[journal\]](https://link.springer.com/article/10.1007/s11009-017-9587-y)
-	    
-*  Palacios, J. A., Veber, A. , **Cappello, L.**, Wang, Z., Wakeley, J., Ramachandran, S., (2019) "Bayesian Estimation of Population Size Changes by Sampling Tajima's Tree." *Genetics*, 213 (3) 967-986  [\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/605352v2.full.pdf) [\[journal\]](https://www.genetics.org/content/213/3/967)[\[software\]](https://github.com/JuliaPalacios/phylodyn)
-
-	     
-* **Cappello, L.**, Palacios, J. A., (2020) "Sequential Importance Sampling Algorithms for Multi-Resolution Kingman-Tajima Coalescent Counting."  *Annals of Applied Statistics*, 14 (2) 727-751. [\[arXiv\]](https://arxiv.org/abs/1902.05527) [\[journal\]](https://projecteuclid.org/euclid.aoas/1593449323)[\[software\]](https://github.com/JuliaPalacios/phylodyn)
-
-	      
-* **Cappello, L.**, Ghosh, S., Palacios, J. A., (2020) Discussion (Invited) on "Horseshoe-based Bayesian Nonparametric Estimation of Effective Population Size Trajectories." *Biometrics*, in Press[\[journal\]](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13275)
+* **Cappello, L.**,  Kim, J. , Liu, S. , Palacios, J. A., (2022)  ``Statistical Challenges in Tracking the Evolution of SARS-CoV-2."  *Statistical Science*, to appear [\[arXiv\]](https://arxiv.org/abs/2108.13362)
 
 
 * **Cappello, L.**, Palacios, J. A., (2021) "Adaptive Preferential Sampling in Phylodynamics." *Journal of Computational and Graphical Statistics*, in press,  [\[arXiv\]](https://arxiv.org/abs/2009.02307) [\[journal\]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1987256)[\[software\]](https://github.com/lorenzocapp/adapref)
 
-* **Cappello, L.**,  Kim, J. , Liu, S. , Palacios, J. A., (2022)  ``Statistical Challenges in Tracking the Evolution of SARS-CoV-2."  *Statistical Science*, to appear [\[arXiv\]](https://arxiv.org/abs/2108.13362)
+* **Cappello, L.**, Ghosh, S., Palacios, J. A., (2020) Discussion (Invited) on "Horseshoe-based Bayesian Nonparametric Estimation of Effective Population Size Trajectories." *Biometrics*, in Press[\[journal\]](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13275)
+
+* **Cappello, L.**, Palacios, J. A., (2020) "Sequential Importance Sampling Algorithms for Multi-Resolution Kingman-Tajima Coalescent Counting."  *Annals of Applied Statistics*, 14 (2) 727-751. [\[arXiv\]](https://arxiv.org/abs/1902.05527) [\[journal\]](https://projecteuclid.org/euclid.aoas/1593449323)[\[software\]](https://github.com/JuliaPalacios/phylodyn)
+
+
+*  Palacios, J. A., Veber, A. , **Cappello, L.**, Wang, Z., Wakeley, J., Ramachandran, S., (2019) "Bayesian Estimation of Population Size Changes by Sampling Tajima's Tree." *Genetics*, 213 (3) 967-986  [\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/605352v2.full.pdf) [\[journal\]](https://www.genetics.org/content/213/3/967)[\[software\]](https://github.com/JuliaPalacios/phylodyn)
+
+
+*	    **Cappello, L.**, Walker, S. G., (2018) "A Recursive Multivariate Inversion of a Laplace Transform for Probability Distributions.", *Methodology and Computing in Applied Probability*, 20 777-797. [\[journal\]](https://link.springer.com/article/10.1007/s11009-017-9587-y)
+	    
+
+	      
+
+
 
 
 Submitted Papers
