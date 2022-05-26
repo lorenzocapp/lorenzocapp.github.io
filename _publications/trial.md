@@ -34,6 +34,9 @@ Submitted Papers
 
 * **Cappello, L.**,  Veber, A. , Palacios, J. A., "Bayesian Nonparametrics Inference of Population Trajectories via Tajima Heterochronous Coalescent." [\[arXiv\]](https://arxiv.org/abs/2004.06826)  [\[software\]](https://github.com/JuliaPalacios/phylodyn)	    
 
+* **Cappello, L.** \*,  Kim, J. , Palacios, J. A., (2022)  ``Bayesian Inference of Dependent Population Dynamics in Coalescent Models." [\[biorXiv\]](https://www.biorxiv.org/content/10.1101/2022.05.22.492976v1) [\[software\]](https://github.com/lorenzocapp/adasel). 
+
+	
 	
 *   Parikh, V. N. , Ioannidis, A. G. , ..., **Cappello, L.**, ... Ashley, E. A. , "Deconvoluting complex correlates of COVID19 severity with local ancestry inference and viral phylodynamics: Results of a multiomic pandemic tracking strategy."  [\[medrXiv\]](https://www.medrxiv.org/content/10.1101/2021.08.04.21261547v1.full.pdf+html)
 
