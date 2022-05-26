@@ -10,7 +10,7 @@ author_profile: true
 
 * **Cappello, L.**, Palacios, J. A., (2021) "Adaptive Preferential Sampling in Phylodynamics." *Journal of Computational and Graphical Statistics*, in press,  [\[arXiv\]](https://arxiv.org/abs/2009.02307) [\[journal\]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1987256)[\[software\]](https://github.com/lorenzocapp/adapref)
 
-* **Cappello, L.**, Ghosh, S., Palacios, J. A., (2020) Discussion (Invited) on "Horseshoe-based Bayesian Nonparametric Estimation of Effective Population Size Trajectories." *Biometrics*, in Press[\[journal\]](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13275)
+* **Cappello, L.**, Ghosh, S., Palacios, J. A., (2020) Discussion (Invited) on "Horseshoe-based Bayesian Nonparametric Estimation of Effective Population Size Trajectories." *Biometrics*,  76 (3) 691-694 [\[journal\]](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13275)
 
 * **Cappello, L.**, Palacios, J. A., (2020) "Sequential Importance Sampling Algorithms for Multi-Resolution Kingman-Tajima Coalescent Counting."  *Annals of Applied Statistics*, 14 (2) 727-751. [\[arXiv\]](https://arxiv.org/abs/1902.05527) [\[journal\]](https://projecteuclid.org/euclid.aoas/1593449323)[\[software\]](https://github.com/JuliaPalacios/phylodyn)
 
@@ -34,7 +34,7 @@ Submitted Papers
 
 * **Cappello, L.**,  Veber, A. , Palacios, J. A., "Bayesian Nonparametrics Inference of Population Trajectories via Tajima Heterochronous Coalescent." [\[arXiv\]](https://arxiv.org/abs/2004.06826)  [\[software\]](https://github.com/JuliaPalacios/phylodyn)	    
 
-* **Cappello, L.**\*,  Kim, J.\* , Palacios, J. A., (2022)  ``Bayesian Inference of Dependent Population Dynamics in Coalescent Models." [\[biorXiv\]](https://www.biorxiv.org/content/10.1101/2022.05.22.492976v1) [\[software\]](https://github.com/lorenzocapp/adasel). \* first authors
+* **Cappello, L.**\*,  Kim, J.\* , Palacios, J. A., ``Bayesian Inference of Dependent Population Dynamics in Coalescent Models." [\[biorXiv\]](https://www.biorxiv.org/content/10.1101/2022.05.22.492976v1) [\[software\]](https://github.com/lorenzocapp/adasel). \* first authors
 
 	
 	
