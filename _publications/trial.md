@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **Cappello, L.**,  Kim, J. , Liu, S. , Palacios, J. A., (2022)  ``Statistical Challenges in Tracking the Evolution of SARS-CoV-2."  *Statistical Science*, to appear [\[arXiv\]](https://arxiv.org/abs/2108.13362)
+*   Parikh, V. N. , Ioannidis, A. G. , ..., **Cappello, L.**, ... Ashley, E. A. , "Deconvoluting complex correlates of COVID19 severity with a multi-omic pandemic tracking strategy." *Nature Communications*, to appear  [\[medrXiv\]](https://www.medrxiv.org/content/10.1101/2021.08.04.21261547v1.full.pdf+html)
+
+* **Cappello, L.**,  Kim, J. , Liu, S. , Palacios, J. A., (2022)  ``Statistical Challenges in Tracking the Evolution of SARS-CoV-2."  *Statistical Science*, 37(2): 162-182 [\[journal\]](https://projecteuclid.org/journals/statistical-science/volume-37/issue-2/Statistical-Challenges-in-Tracking-the-Evolution-of-SARS-CoV-2/10.1214/22-STS853.full)
 
 
 * **Cappello, L.**, Palacios, J. A., (2021) "Adaptive Preferential Sampling in Phylodynamics." *Journal of Computational and Graphical Statistics*, in press,  [\[arXiv\]](https://arxiv.org/abs/2009.02307) [\[journal\]](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1987256)[\[software\]](https://github.com/lorenzocapp/adapref)
@@ -38,7 +40,7 @@ Submitted Papers
 
 	
 	
-*   Parikh, V. N. , Ioannidis, A. G. , ..., **Cappello, L.**, ... Ashley, E. A. , "Deconvoluting complex correlates of COVID19 severity with local ancestry inference and viral phylodynamics: Results of a multiomic pandemic tracking strategy."  [\[medrXiv\]](https://www.medrxiv.org/content/10.1101/2021.08.04.21261547v1.full.pdf+html)
+
 
 *  **Cappello, L.**, Walker, S. G., "Recursive Nonparametric Predictive for   a Discrete Regression model." (SBSS Best Student Paper Prize at JSM 2018, BNP at Paris 2017 Best Poster Award) (Revision due to *Computational Statistics and Data Analysis*)
 
