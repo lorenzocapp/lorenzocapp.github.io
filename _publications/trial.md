@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-*   Parikh, V. N. , Ioannidis, A. G. , ..., **Cappello, L.**, ... Ashley, E. A. , (2022) "Deconvoluting complex correlates of COVID19 severity with a multi-omic pandemic tracking strategy." *Nature Communications*, to appear  [\[medrXiv\]](https://www.medrxiv.org/content/10.1101/2021.08.04.21261547v1.full.pdf+html)
+*   Parikh, V. N. , Ioannidis, A. G. , ..., **Cappello, L.**, ... Ashley, E. A. , (2022) "Deconvoluting complex correlates of COVID19 severity with a multi-omic pandemic tracking strategy." *Nature Communications*, 13, 5107 [\[journal\]](https://www.nature.com/articles/s41467-022-32397-8) [\[medrXiv\]](https://www.medrxiv.org/content/10.1101/2021.08.04.21261547v1.full.pdf+html)
 
 * **Cappello, L.**,  Kim, J. , Liu, S. , Palacios, J. A., (2022)  ``Statistical Challenges in Tracking the Evolution of SARS-CoV-2."  *Statistical Science*, 37(2): 162-182 [\[journal\]](https://projecteuclid.org/journals/statistical-science/volume-37/issue-2/Statistical-Challenges-in-Tracking-the-Evolution-of-SARS-CoV-2/10.1214/22-STS853.full)
 
