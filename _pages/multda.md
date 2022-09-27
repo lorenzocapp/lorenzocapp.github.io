@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Multidimensional Data Analysis"
-permalink: /cv/
+permalink: /multda/
 author_profile: true
 redirect_from:
   - /resume
