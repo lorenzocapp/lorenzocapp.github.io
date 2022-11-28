@@ -31,6 +31,8 @@ author_profile: true
 Submitted Papers
 ======
 
+ *   **Cappello, L.**, Padilla, O. M., ``Variance Change Point  Detection with Credible Sets." [\[arXiv\]](https://arxiv.org/abs/2211.14097)  [\[software\]](https://github.com/lorenzocapp/prisca)
+
 *   **Cappello, L.**, Padilla, O. M., Palacios, J. A., ``Scalable Bayesian Change Point Detection with Spike and Slab Priors." [\[arXiv\]](https://arxiv.org/abs/2106.10383)  [\[software\]](https://github.com/lorenzocapp/solocp)	    
 
 
@@ -40,7 +42,6 @@ Submitted Papers
 
 	
 	
-
 
 *  **Cappello, L.**, Walker, S. G., "Recursive Nonparametric Predictive for   a Discrete Regression model." (SBSS Best Student Paper Prize at JSM 2018, BNP at Paris 2017 Best Poster Award) (Revision due to *Computational Statistics and Data Analysis*)
 

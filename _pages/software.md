@@ -4,7 +4,10 @@ title: "Software"
 permalink: /software/
 author_profile: true
 ---
-I have recently developed the package [solocp](https://github.com/lorenzocapp/solocp)
+
+I have recently developed the package [prisca](https://github.com/lorenzocapp/prisca)
+
+I have developed the package [solocp](https://github.com/lorenzocapp/solocp)
 
 I contribute to the package [phylodyn](https://github.com/JuliaPalacios/phylodyn)
 
