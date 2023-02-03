@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-*   **Cappello, L.**, Padilla, O. M., Palacios, J. A., (2023) "Scalable Bayesian Change Point Detection with Spike and Slab Priors." *Journal of Computational and Graphical Statistics*, in press [\[arXiv\]](https://arxiv.org/abs/2106.10383)  [\[software\]](https://github.com/lorenzocapp/solocp)	    
+*   **Cappello, L.**, Padilla, O. M., Palacios, J. A., (2023) "Bayesian Change Point Detection with Spike and Slab Priors." *Journal of Computational and Graphical Statistics*, in press [\[arXiv\]](https://arxiv.org/abs/2106.10383)  [\[software\]](https://github.com/lorenzocapp/solocp)	    
 
 * **Cappello, L.**\*,  Kim, J.\* , Palacios, J. A., (2023) "Bayesian Inference of Dependent Population Dynamics in Coalescent Models."  *PLOS Computational Biology*, in press [\[biorXiv\]](https://www.biorxiv.org/content/10.1101/2022.05.22.492976v1) [\[software\]](https://github.com/lorenzocapp/adasel). \* first authors
 
