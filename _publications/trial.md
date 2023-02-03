@@ -40,13 +40,8 @@ Submitted Papers
  *   **Cappello, L.**, Padilla, O. M., ``Variance Change Point  Detection with Credible Sets." [\[arXiv\]](https://arxiv.org/abs/2211.14097)  [\[software\]](https://github.com/lorenzocapp/prisca)
 
 
-
 * **Cappello, L.**,  Veber, A. , Palacios, J. A., "Bayesian Nonparametrics Inference of Population Trajectories via Tajima Heterochronous Coalescent." [\[arXiv\]](https://arxiv.org/abs/2004.06826)  [\[software\]](https://github.com/JuliaPalacios/phylodyn)	    
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 55225d6f24adab7cae50c14c8d25f8b26ef0984e
 
 
 *  **Cappello, L.**, Walker, S. G., "Recursive Nonparametric Predictive for   a Discrete Regression model." (SBSS Best Student Paper Prize at JSM 2018, BNP at Paris 2017 Best Poster Award) (Revision due to *Computational Statistics and Data Analysis*)
