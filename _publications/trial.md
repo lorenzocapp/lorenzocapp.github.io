@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+ *   **Cappello, L.**, Padilla, O. M., ``Bayesian variance change point detection withcredible sets." *IEEE Transactions on Pattern Analysis and Machine Intelligence, to appear [\[arXiv\]](https://arxiv.org/abs/2211.14097)  [\[software\]](https://github.com/lorenzocapp/prisca)
 
-* **Cappello, L.**,  Veber, A. , Palacios, J. A., "Bayesian Nonparametrics Inference of Population Trajectories via Tajima Heterochronous Coalescent." *Journal of the American Statistical Association*, to appear [\[arXiv\]](https://arxiv.org/abs/2004.06826)  [\[software\]](https://github.com/JuliaPalacios/phylodyn)	
+* **Cappello, L.**,  Veber, A., Palacios, J. A., (2024) "An Efficient Coalescent Model for Heterochronously Sampled Molecular Data." *Journal of the American Statistical Association*, 119 (548), 2437-2449 [\[journal\]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2330732)  [\[arXiv\]](https://arxiv.org/abs/2004.06826)  [\[software\]](https://github.com/JuliaPalacios/phylodyn)	
 
 
 *   **Cappello, L.**, Padilla, O. M., Palacios, J. A., (2023) "Bayesian Change Point Detection with Spike and Slab Priors." *Journal of Computational and Graphical Statistics*, in press [\[journal\]](https://url6649.tandfonline.com/ls/click?upn=odl8Fji2pFaByYDqV3bjGMQo8st9of2228V6AcSFNq3t86qU90pAx-2BEad4OTI0D6y0jwhu1g1mjW-2BvtXWMt6X3QU3YJNum1fbmqdTMuPi2M-3D_ZK3_X5NlUk8AnDdtxeJY1jjnsZ1tm3gEWymG8v-2FNHYr-2FWDAt-2Fp9ahGRBni1NqZDD4bEbOIh88FIZnek137Xj0ldwd5T-2FJQEABMqBlykQE6k7aduu5BSgGAf7dj3-2FHZfz7Ua3DPBwRLbB7PD0qCZBLCmMw7gUn2HIMwhxNgq07HiR2dqL9zzL8bDDfyGk-2BZ-2FKo42ga9-2Bk0lHps5WO0tDwzLuuwKCvZo5Q7X1jbFvC-2FTQDwZSo5YyMwfid5yPr7X1CtEPcKBLwLe-2Fgea5Wjx078siYwuJyL04uhcY44oc3q2aLK-2F0-3D) [\[arXiv\]](https://arxiv.org/abs/2106.10383)  [\[software\]](https://github.com/lorenzocapp/solocp)	    
@@ -39,16 +40,16 @@ author_profile: true
 Submitted Papers
 ======
 
- *   **Cappello, L.**, Padilla, O. M., ``Variance Change Point  Detection with Credible Sets." [\[arXiv\]](https://arxiv.org/abs/2211.14097)  [\[software\]](https://github.com/lorenzocapp/prisca)
-
-
-   
-
-
 
 *  **Cappello, L.**, Walker, S. G., "Recursive Nonparametric Predictive for   a Discrete Regression model." (SBSS Best Student Paper Prize at JSM 2018, BNP at Paris 2017 Best Poster Award) (Revision due to *Computational Statistics and Data Analysis*)
 
 * **Cappello, L.**, Walker, S. G., "Recursive Estimation of  Probability Distributions."
+
+* **Cappello, L.**,  Lo, W.T.J.,  Zhang, J.Z., Xu, P., Barrow, D., Chopra, I.,  Clark, A. G.,  Wells, M. T., Kim, J. "Bayesian phylodynamic inference of population dynamics with dormancy" [\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2025.01.19.633741v1) 
+[\[software\]](https://github.com/BEAST-seedbank/SeedbankTree)
+
+* Bianco, N., **Cappello, L.**,  "Computationally efficient segmen-
+tation for non-stationary time series with oscillatory patterns", [\[software\]](https://github.com/whitenoise8/CPVS)
 
 	
 
