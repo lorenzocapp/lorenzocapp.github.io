@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
- *   **Cappello, L.**, Padilla, O. M., ``Bayesian variance change point detection withcredible sets." *IEEE Transactions on Pattern Analysis and Machine Intelligence, to appear [\[arXiv\]](https://arxiv.org/abs/2211.14097)  [\[software\]](https://github.com/lorenzocapp/prisca)
+ *   **Cappello, L.**, Padilla, O. M., ``Bayesian variance change point detection withcredible sets." *IEEE Transactions on Pattern Analysis and Machine Intelligence*, to appear [\[arXiv\]](https://arxiv.org/abs/2211.14097)  [\[software\]](https://github.com/lorenzocapp/prisca)
 
 * **Cappello, L.**,  Veber, A., Palacios, J. A., (2024) "An Efficient Coalescent Model for Heterochronously Sampled Molecular Data." *Journal of the American Statistical Association*, 119 (548), 2437-2449 [\[journal\]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2330732)  [\[arXiv\]](https://arxiv.org/abs/2004.06826)  [\[software\]](https://github.com/JuliaPalacios/phylodyn)	
 
