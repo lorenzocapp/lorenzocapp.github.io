@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **Cappello, L.**,  Lo, W.T.J.,  Zhang, J.Z., Xu, P., Barrow, D., Chopra, I.,  Clark, A. G.,  Wells, M. T., Kim, J. "Bayesian phylodynamic inference of population dynamics with dormancy". *Proceedings of the National Academy of Sciences (PNAS)* to appear [\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2025.01.19.633741v1) 
+[\[software\]](https://github.com/BEAST-seedbank/SeedbankTree)
+
  *   **Cappello, L.**, Padilla, O. M., ``Bayesian variance change point detection withcredible sets." *IEEE Transactions on Pattern Analysis and Machine Intelligence*, to appear [\[arXiv\]](https://arxiv.org/abs/2211.14097)  [\[software\]](https://github.com/lorenzocapp/prisca)
 
 * **Cappello, L.**,  Veber, A., Palacios, J. A., (2024) "An Efficient Coalescent Model for Heterochronously Sampled Molecular Data." *Journal of the American Statistical Association*, 119 (548), 2437-2449 [\[journal\]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2330732)  [\[arXiv\]](https://arxiv.org/abs/2004.06826)  [\[software\]](https://github.com/JuliaPalacios/phylodyn)	
@@ -45,11 +48,9 @@ Submitted Papers
 
 * **Cappello, L.**, Walker, S. G., "Recursive Estimation of  Probability Distributions."
 
-* **Cappello, L.**,  Lo, W.T.J.,  Zhang, J.Z., Xu, P., Barrow, D., Chopra, I.,  Clark, A. G.,  Wells, M. T., Kim, J. "Bayesian phylodynamic inference of population dynamics with dormancy" [\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2025.01.19.633741v1) 
-[\[software\]](https://github.com/BEAST-seedbank/SeedbankTree)
 
-* Bianco, N., **Cappello, L.**,  "Computationally efficient segmen-
-tation for non-stationary time series with oscillatory patterns", [\[software\]](https://github.com/whitenoise8/CPVS)
+
+* Bianco, N., **Cappello, L.**,  "Computationally efficient segmentation for non-stationary time series with oscillatory patterns", [\[software\]](https://github.com/whitenoise8/CPVS)
 
 	
 
