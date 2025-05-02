@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **Cappello, L.**,  Lo, W.T.J.,  Zhang, J.Z., Xu, P., Barrow, D., Chopra, I.,  Clark, A. G.,  Wells, M. T., Kim, J. "Bayesian phylodynamic inference of population dynamics with dormancy". *Proceedings of the National Academy of Sciences (PNAS)* to appear [\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2025.01.19.633741v1) 
-[\[software\]](https://github.com/BEAST-seedbank/SeedbankTree)
+* **Cappello, L.**,  Lo, W.T.J.,  Zhang, J.Z., Xu, P., Barrow, D., Chopra, I.,  Clark, A. G.,  Wells, M. T., Kim, J. "Bayesian phylodynamic inference of population dynamics with dormancy". *Proceedings of the National Academy of Sciences (PNAS)* to appear [\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2025.01.19.633741v1)  [\[journal\]](https://www.pnas.org/doi/10.1073/pnas.2501394122) [\[software\]](https://github.com/BEAST-seedbank/SeedbankTree)
 
  *   **Cappello, L.**, Padilla, O. M., ``Bayesian variance change point detection withcredible sets." *IEEE Transactions on Pattern Analysis and Machine Intelligence*, to appear [\[arXiv\]](https://arxiv.org/abs/2211.14097)  [\[software\]](https://github.com/lorenzocapp/prisca)
 
