@@ -51,6 +51,10 @@ Submitted Papers
 
 * Bianco, N., **Cappello, L.**,  "Computationally efficient segmentation for non-stationary time series with oscillatory patterns", [\[software\]](https://github.com/whitenoise8/CPVS)
 
+
+* Battiston, M., **Cappello, L.**,  "New (and old) predictive schemes with a.c.i.d. sequences", [\[arXiv\]](https://arxiv.org/abs/2507.21874)[\[code to reproduce\]](https://github.com/lorenzocapp/acid_paper)
+
+* Berlind, D., **Cappello, L.**, Padilla, O. M.,  "Computationally efficient segmentation for non-stationary time series with oscillatory patterns", [\[arXiv\]](https://arxiv.org/abs/2507.01558)[\[software\]](https://github.com/davis-berlind/MICH)
 	
 
 
