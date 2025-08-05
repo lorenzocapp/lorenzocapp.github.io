@@ -54,7 +54,7 @@ Submitted Papers
 
 * Battiston, M., **Cappello, L.**,  "New (and old) predictive schemes with a.c.i.d. sequences", [\[arXiv\]](https://arxiv.org/abs/2507.21874)[\[code to reproduce\]](https://github.com/lorenzocapp/acid_paper)
 
-* Berlind, D., **Cappello, L.**, Padilla, O. M.,  "Computationally efficient segmentation for non-stationary time series with oscillatory patterns", [\[arXiv\]](https://arxiv.org/abs/2507.01558)[\[software\]](https://github.com/davis-berlind/MICH)
+* Berlind, D., **Cappello, L.**, Padilla, O. M.,  "A Bayesian framework for change-point detection with uncertainty quantification", [\[arXiv\]](https://arxiv.org/abs/2507.01558)[\[software\]](https://github.com/davis-berlind/MICH)
 	
 
 
