@@ -5,9 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **Cappello, L.**,  Lo, W.T.J.,  Zhang, J.Z., Xu, P., Barrow, D., Chopra, I.,  Clark, A. G.,  Wells, M. T., Kim, J. "Bayesian phylodynamic inference of population dynamics with dormancy". *Proceedings of the National Academy of Sciences (PNAS)* to appear [\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2025.01.19.633741v1)  [\[journal\]](https://www.pnas.org/doi/10.1073/pnas.2501394122) [\[software\]](https://github.com/BEAST-seedbank/SeedbankTree)
 
- *   **Cappello, L.**, Padilla, O. M., ``Bayesian variance change point detection withcredible sets." *IEEE Transactions on Pattern Analysis and Machine Intelligence*, to appear [\[arXiv\]](https://arxiv.org/abs/2211.14097)  [\[software\]](https://github.com/lorenzocapp/prisca)
+*  **Cappello, L.**, Walker, S. G., (2025) "Recursive Nonparametric Predictive for   a Discrete Regression model." *Computational Statistics and Data Analysis*, to appear (SBSS Best Student Paper Prize at JSM 2018, BNP at Paris 2017 Best Poster Award)  
+
+* **Cappello, L.**,  Lo, W.T.J.,  Zhang, J.Z., Xu, P., Barrow, D., Chopra, I.,  Clark, A. G.,  Wells, M. T., Kim, J. (2025) "Bayesian phylodynamic inference of population dynamics with dormancy". *Proceedings of the National Academy of Sciences (PNAS)* to appear [\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2025.01.19.633741v1)  [\[journal\]](https://www.pnas.org/doi/10.1073/pnas.2501394122) [\[software\]](https://github.com/BEAST-seedbank/SeedbankTree)
+
+ *   **Cappello, L.**, Padilla, O. M., (2025) ``Bayesian variance change point detection withcredible sets." *IEEE Transactions on Pattern Analysis and Machine Intelligence*, to appear [\[arXiv\]](https://arxiv.org/abs/2211.14097)  [\[software\]](https://github.com/lorenzocapp/prisca)
 
 * **Cappello, L.**,  Veber, A., Palacios, J. A., (2024) "An Efficient Coalescent Model for Heterochronously Sampled Molecular Data." *Journal of the American Statistical Association*, 119 (548), 2437-2449 [\[journal\]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2330732)  [\[arXiv\]](https://arxiv.org/abs/2004.06826)  [\[software\]](https://github.com/JuliaPalacios/phylodyn)	
 
@@ -43,7 +46,7 @@ Submitted Papers
 ======
 
 
-*  **Cappello, L.**, Walker, S. G., "Recursive Nonparametric Predictive for   a Discrete Regression model." (SBSS Best Student Paper Prize at JSM 2018, BNP at Paris 2017 Best Poster Award) (Revision due to *Computational Statistics and Data Analysis*)
+
 
 * **Cappello, L.**, Walker, S. G., "Recursive Estimation of  Probability Distributions."
 
