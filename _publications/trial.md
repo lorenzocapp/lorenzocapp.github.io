@@ -5,8 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Battiston, M., **Cappello, L.**,  (2026) "Bayesian Predictive Inference Beyond Martingales", *Journal of Machine Learning Research*, to appear [\[arXiv\]](https://arxiv.org/abs/2507.21874)[\[code to reproduce\]](https://github.com/lorenzocapp/acid_paper)
 
-*  **Cappello, L.**, Walker, S. G., (2025) "Recursive Nonparametric Predictive for   a Discrete Regression model." *Computational Statistics and Data Analysis*, to appear (SBSS Best Student Paper Prize at JSM 2018, BNP at Paris 2017 Best Poster Award)  
+
+*  **Cappello, L.**, Walker, S. G., (2026) "Recursive Nonparametric Predictive for   a Discrete Regression Model." *Computational Statistics and Data Analysis*, 215 (SBSS Best Student Paper Prize at JSM 2018, BNP at Paris 2017 Best Poster Award)  [\[journal\]](https://www.sciencedirect.com/science/article/pii/S0167947325001513?via\%3Dihub)
 
 * **Cappello, L.**,  Lo, W.T.J.,  Zhang, J.Z., Xu, P., Barrow, D., Chopra, I.,  Clark, A. G.,  Wells, M. T., Kim, J. (2025) "Bayesian phylodynamic inference of population dynamics with dormancy". *Proceedings of the National Academy of Sciences (PNAS)* to appear [\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2025.01.19.633741v1)  [\[journal\]](https://www.pnas.org/doi/10.1073/pnas.2501394122) [\[software\]](https://github.com/BEAST-seedbank/SeedbankTree)
 
@@ -55,7 +57,6 @@ Submitted Papers
 * Bianco, N., **Cappello, L.**,  "Computationally efficient segmentation for non-stationary time series with oscillatory patterns", [\[software\]](https://github.com/whitenoise8/CPVS)
 
 
-* Battiston, M., **Cappello, L.**,  "New (and old) predictive schemes with a.c.i.d. sequences", [\[arXiv\]](https://arxiv.org/abs/2507.21874)[\[code to reproduce\]](https://github.com/lorenzocapp/acid_paper)
 
 * Berlind, D., **Cappello, L.**, Padilla, O. M.,  "A Bayesian framework for change-point detection with uncertainty quantification", [\[arXiv\]](https://arxiv.org/abs/2507.01558)[\[software\]](https://github.com/davis-berlind/MICH)
 	
